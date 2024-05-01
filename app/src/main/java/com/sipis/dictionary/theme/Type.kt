@@ -1,4 +1,4 @@
-package com.sipis.dictionary.ui.theme
+package com.sipis.dictionary.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
